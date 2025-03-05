@@ -1,0 +1,10 @@
+pandas
+numpy
+ipykernel
+matplotlib
+seaborn
+scikit-learn
+feature-engine
+fastapi
+uvicorn
+Flask
