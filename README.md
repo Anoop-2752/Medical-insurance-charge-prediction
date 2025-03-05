@@ -1,3 +1,3 @@
 # Medical-insurance-charge-prediction
 
-https://github.com/user-attachments/assets/a40500ad-d764-4bb6-bfbf-643d4b322845
+![Image](https://github.com/user-attachments/assets/f34924db-2c2b-44c6-8fae-6337c21c1126)
