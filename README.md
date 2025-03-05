@@ -25,7 +25,25 @@ The dataset used in this project is stored in a CSV file named insurance.csv. It
 - Supports **CORS** for seamless frontend integration.
 - Accepts user inputs via a **POST request** to `/predict`.
 
-  ---
+## 📂 Project Structure
+```
+📁 insurance-predictor/
+
+│── 📂 data                  
+│   ├── medical insurance.csv
+│── 📂 notebook              
+│   ├── eda.ipynb
+│── 📂 templates              
+│   ├── index.html             
+│── 📜 .gitignore             
+│── 📜 README.md
+│── 📜 model.pkl           
+│── 📜 app.py                 
+│── 📜 requirements.txt      
+
+```
+ 
+  
 
 ## 🛠️ Installation & Setup
 
