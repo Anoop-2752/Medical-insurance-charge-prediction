@@ -1,4 +1,4 @@
-# Medical-insurance-charge-prediction.
+# Medical-insurance-charge-prediction
 
 # Project Overview
 
